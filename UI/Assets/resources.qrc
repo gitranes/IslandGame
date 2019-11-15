@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ak47_icon.png</file>
+        <file>shark.png</file>
+        <file>redpawn.png</file>
+        <file>bluepawn.png</file>
+        <file>whitepawn.png</file>
+        <file>seamunster.png</file>
+        <file>vortex.png</file>
+        <file>kraken.png</file>
+        <file>boat.png</file>
+        <file>dolphin.png</file>
+        <file>boatBlue.png</file>
+        <file>boatBlueWhite.png</file>
+        <file>boatBlueWhiteRed.png</file>
+        <file>boatRed.png</file>
+        <file>boatWhite.png</file>
+        <file>boatWhiteRed.png</file>
+        <file>dolphinBlue.png</file>
+        <file>dolphinRed.png</file>
+        <file>dolphinWhite.png</file>
+        <file>boatBlueRed.png</file>
+    </qresource>
+</RCC>
